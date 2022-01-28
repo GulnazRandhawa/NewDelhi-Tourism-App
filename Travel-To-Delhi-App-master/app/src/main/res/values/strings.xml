@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TourismApp2</string>
+    <string name="welcome_to_">Welcome To Travel
+</string>
+    <string name="title_activity_home_screen">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_manage__reviews">Manage_Reviews</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="march_2021">March, 2021</string>
+    <string name="select_date">Select Date</string>
+    <string name="time_duration">Time Duration</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="_01_00_pm">01:00 pm</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Login_Signup">
+    <TextView
+        android:id="@+id/welcome_to_"
+        android:layout_width="223dp"
+        android:layout_height="33dp"
+
+        android:text="@string/welcome_to_"
+        android:fontFamily="@font/opensans_regular"
+        android:textFontWeight="600"
+        android:textAppearance="@style/welcome_to_"
+        android:gravity="center_horizontal|top"
+        />
+    <Button
+        android:id="@+id/button_login"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+       android:layout_margin="22dp"
+        android:layout_marginTop="16dp"
+        android:textColor="#ffffff"
+        android:fontFamily="@font/opensans_regular"
+        android:background="@drawable/mybutton"
+        android:text="Login" />
+
+    <TextView
+        android:id="@+id/button_signup"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="22dp"
+        android:layout_marginRight="22dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/opensans_regular"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:gravity="center"
+
+        android:background="@drawable/mybutton2"
+        android:text="SIGNUP" />
+
+
+</LinearLayout>
